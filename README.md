@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nirojasmar
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning the .NET Framework and cloud services
-- 💞️ I’m looking to collaborate on projects relating to web development especially those that uses .NET
+- 💞️ I’m looking to collaborate on projects relating to web backend development
 - 📫 How to reach me:
 - 
       - My email: nirojasmar@gmail.com
