@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nirojasmar
 - 👀 I’m interested in web development and gaming
-- 🌱 I’m currently learning the .NET Framework and cloud services
+- 🌱 I’m currently learning the .NET Framework, Angular and cloud services
 - 💞️ I’m looking to collaborate on projects relating to web backend development
 - 📫 How to reach me:
 - 
