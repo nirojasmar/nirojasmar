@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 - 
       - My email: nirojasmar@gmail.com
-      - LinkedIn: linkedin.com/in/nicolás-rojas-marín-b412751b0
+      - LinkedIn: linkedin.com/in/nirojasm
 
 <!---
 nirojasmar/nirojasmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
