@@ -2,8 +2,7 @@
 - 👀 I’m interested in web development and gaming
 - 🌱 I’m currently learning the .NET Framework, Angular and cloud services
 - 💞️ I’m looking to collaborate on projects relating to web development
-- 📫 How to reach me:
-- 
+- 📫 How to reach me: 
       - My email: nirojasmar@gmail.com
       - LinkedIn: linkedin.com/in/nirojasm
 
