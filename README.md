@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nirojasmar
 - 👀 I’m a DevOps Engineer at Globant
-- 🌱 Currently working and improving myself
+- 🌱 Currently working on improving myself
 - 📫 How to reach me: 
 
       - My email: nirojasmar@gmail.com
