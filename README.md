@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nirojasmar
-- 👀 I’m interested in web development and gaming
-- 🌱 I’m currently learning Backend technologies and techniques
-- 💞️ I’m looking to collaborate on projects relating to web development
+- 👀 I’m a DevOps Engineer at Globant
+- 🌱 Currently working and improving myself
 - 📫 How to reach me: 
 
       - My email: nirojasmar@gmail.com
