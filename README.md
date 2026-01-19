@@ -5,7 +5,7 @@
 
       - My email: nirojasmar@gmail.com
       - LinkedIn: linkedin.com/in/nirojasm
-      - My Webpage: WIP uwu
+      - My Webpage: nirojasm.com
 
 <!---
 nirojasmar/nirojasmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
